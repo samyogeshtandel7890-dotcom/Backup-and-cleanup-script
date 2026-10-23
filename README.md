@@ -63,4 +63,7 @@ The cleanup operation is restricted to regular files directly inside `cleanup_te
 
 ## Author
 sameep
+<img width="1097" height="567" alt="image" src="https://github.com/user-attachments/assets/d42e4f0b-c4a0-4edf-a9bf-06a5935714e0" />
+<img width="1916" height="1078" alt="image" src="https://github.com/user-attachments/assets/40d3c6e8-966e-4e69-a7fc-2ef2dc10aea4" />
+<img width="1095" height="587" alt="image" src="https://github.com/user-attachments/assets/7fb39e00-ec93-4a11-9d6a-33c6cbeed5e8" />
 
